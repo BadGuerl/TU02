@@ -1,4 +1,4 @@
-// Escribe una función pow(x, n) que devuelva x en la potencia n. O, en otras palabras, que multiplique x por sí mismo n veces y devuelva el resultado.
+// Escribe una función pow(x, n) que devuelva x en la potencia n.O, en otras palabras, que multiplique x por sí mismo n veces y devuelva el resultado.
 // pow(3, 2) = 3 * 3 = 9
 // pow(3, 3) = 3 * 3 * 3 = 27
 // pow(1, 100) = 1 * 1 * ...* 1 = 1
